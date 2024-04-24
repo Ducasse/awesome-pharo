@@ -162,7 +162,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Graphics
 + [Bloc](https://github.com/pharo-graphics/Bloc) - Next generation low-level UI infratructure and framework for Pharo.
-+ [Brick](https://github.com/pharo-graphics/Brick) - Next generation widget libraries for Pharo. Works on top of Bloc.
++ [Toplo](https://github.com/pharo-graphics/Toplo) - Next generation widget libraries for Pharo. Works on top of Bloc.
 + [ConstraintsLayout](https://github.com/tesonep/ConstraintsLayout) - A constraints layout for morphic using Cassowary as its backend.
 + [Colors Extensions](https://github.com/pharo-contributions/ColorsExtensions) - Extensions to Pharo colors.
 + [GraphViz](https://github.com/hernanmd/GraphViz) - Pharo GraphViz binding.
@@ -215,6 +215,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Meta-modelling
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
++ [Simple Rene](https://github.com/pharo-contributions/SimpleRene)) - A clean (for Pharo only) fork of Magritte.
 
 ## Miscellaneous
 + [Aconcagua](https://github.com/ba-st/aconcagua) - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
