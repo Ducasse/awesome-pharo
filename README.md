@@ -215,6 +215,7 @@ The general idea is to have a place to be able to find datastructures.
 
 ## Meta-modelling
 + [Magritte](https://github.com/magritte-metamodel/magritte) - A fully dynamic meta-description framework.
++ [SimpleRene](https://github.com/pharo-contributions/simplerene) - A cleaner and smaller version of Magritte.
 
 ## Miscellaneous
 + [Aconcagua](https://github.com/ba-st/aconcagua) - This model represents measures as first class objects, that is, an object that encapsulates a number with its unit.
